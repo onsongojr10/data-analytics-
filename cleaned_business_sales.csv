@@ -1,0 +1,14 @@
+Product,Category,Price,Quantity_Sold,Customer
+Laptop,Electronics,80000.0,4.0,Mary
+Laptop,Electronics,80000.0,4.0,Mary
+Phone,Electronics,30000.0,8.0,John
+Phone,Electronics,30000.0,8.0,John
+Keyboard,Unknown,3000.0,15.0,Peter
+Mouse,Accessories,1500.0,22.0,Ann
+Unknown,Accessories,2500.0,0.0,David
+Monitor,Electronics,27541.666666666668,6.0,Unknown
+Monitor,Electronics,25000.0,6.0,David
+Headphones,Accessories,4500.0,12.0,Sarah
+Tablet,Electronics,28000.0,5.0,James
+Tablet,Electronics,28000.0,5.0,James
+Printer,Office,18000.0,3.0,Grace

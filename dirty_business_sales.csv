@@ -1,0 +1,15 @@
+Product,Category,Price,Quantity_Sold,Customer
+Laptop,Electronics,80000,4,Mary
+ laptop , Electronics ,80000,4, mary 
+PHONE,electronics,30000,8,JOHN
+Phone,Electronics,30000,8,John
+Keyboard,,3000,15,Peter
+Mouse,Accessories,1500,22,Ann
+,Accessories,2500,,David
+Monitor,Electronics,,6,
+monitor ,Electronics,25000,6,david
+Headphones,Accessories,4500,12,Sarah
+Tablet,Electronics,28000,5,James
+  tablet, electronics ,28000,5, james 
+Printer,Office,18000,3,Grace
+Printer,Office,18000,3,Grace
